@@ -1,7 +1,6 @@
 # Nunam TASK
 _
-All the tasks were done in single file  
-with seperated Heading for Each Task.
+All the tasks were done in single file (ALL_TASKS.ipynb) with seperated Heading for each task.
 
 Tasks
 1)Create 3 separate '.csv'* files named 'detail.csv', 'detailVol.csv' and 'detailTemp.csv'.
