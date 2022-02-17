@@ -1,10 +1,11 @@
-# Nunam TASK
+# Data Analytics task
 _
-## All the tasks were done in single file (ALL_TASKS.ipynb) with seperated Heading for each task.
+## Refer Main.ipynb for complete project.
 
 
 
-Tasks
+# Tasks
+
 1)Create 3 separate '.csv'* files named 'detail.csv', 'detailVol.csv' and 'detailTemp.csv'.
 
   Combine all the data in sheets named like "Detail_67_" only, among the two data files provided, and save into 'detail.csv'
